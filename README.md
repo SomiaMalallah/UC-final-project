@@ -5,30 +5,30 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+سمية زيد مال الله
 
 ### اسم المشروع
-
+المخبز
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
-
+قمت بعمل صفحة مخبز ،جمعت بها وصفاتي المفضلة ،وربطت صفحة للموقع الذي الذي احب زيارته للمزيد من الوصفات 
 
 # الأعمال المستقبلية
-
+تطوير الموقع بشكل افضل واضافة المزيد من الوصفات 
 
 </div>
 
 > Fill out project information in English ⬇️
 ### Student Name
 
-
+somia zaid malallah
 ### Project Name
-
+the bakery
 # Idea
 Problem and solutions if found 
-
+مت بعمل صفحة مخبز ،جمعت بها وصفاتي المفضلة ،وربطت صفحة للموقع الذي الذي احب زيارته للمزيد من الوصفات 
 
 # Future Work 
 
-
+Develop the site better and add more recipes
